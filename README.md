@@ -1,5 +1,4 @@
 # sentiment_analysis_in_keras_IMDB
-#This code is for learning purpose
 
 Analyze a dataset from IMDB and use it to predict the sentiment analysis of a review.
 
